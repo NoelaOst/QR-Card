@@ -44,12 +44,12 @@ body{
 }
 
 .content h1{
-    font-size: 20px;
+    font-size: 1.25rem;
     color: hsl(218, 44%, 22%);
 }
 
 .content p{
-    font-size: 15px;
+    font-size: 1rem;
     color: hsl(220, 15%, 55%);
 }
 
