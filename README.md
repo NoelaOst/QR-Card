@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- [Solution URL]:(https://github.com/NoelaOst/QR-Card)
-- [Live Site URL]:(https://my-frontend-mentor-solutions-e9zt.vercel.app/)
+- [Solution URL](https://github.com/NoelaOst/QR-Card)
+- [Live Site URL](https://my-frontend-mentor-solutions-e9zt.vercel.app/)
 
 ## My process
 
