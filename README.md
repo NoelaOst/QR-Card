@@ -31,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-This was my very first Frontend Mentor challenge, so I was able to implement basic principles of flexbox, cenetring a div, using HTML semantic Markup. 
+This was my very first Frontend Mentor challenge, so I was able to implement basic principles of flexbox while also using HTML semantic Markup. 
 Nothing fancy yet fundemental for every web developer.
 
 ## Author
